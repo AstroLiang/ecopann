@@ -1,5 +1,5 @@
 ECoPANN
-=====
+=======
 
 **ECoPANN (Estimating Cosmological Parameters with Artificial Neural Network)**
 
@@ -11,8 +11,9 @@ and can obtain almost the same results as MCMC.
 It is proposed by Guo-Jian Wang, Si-Yao Li, Jun-Qing Xia (2020)
 
 
+Attribution
+-----------
 
--------
 **The code can be available after the publication of the paper.**
 
 
