@@ -8,7 +8,8 @@ ECoPANN is a new method to estimate cosmological parameters accurately based on 
 It is an alternative to the traditional Markov chain Monte Carlo (MCMC) method, 
 and can obtain almost the same results as MCMC.
 
-It is proposed by Guo-Jian Wang, Si-Yao Li, Jun-Qing Xia (2020)
+It is proposed by `Guo-Jian Wang, Si-Yao Li, Jun-Qing Xia (2020)
+<https://arxiv.org/abs/2005.07089>`_.
 
 
 Attribution
